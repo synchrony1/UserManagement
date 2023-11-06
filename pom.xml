@@ -9,7 +9,7 @@
         <version>3.0.7</version>
         <relativePath />
     </parent>
-    <groupId>org.example</groupId>
+    <groupId>com.synchrony.app</groupId>
     <artifactId>UserManagement</artifactId>
     <version>1.0-SNAPSHOT</version>
 
